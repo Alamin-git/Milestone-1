@@ -1,0 +1,54 @@
+body {
+     margin: 0;
+     padding: 0;
+     font-family: "Poppins", sans-serif;
+}
+.main-banner {
+     display: flex;
+     max-width: 100%;
+     justify-content: space-evenly;
+     align-content: center;
+     padding: 0 35px;
+}
+.main-banner-laeft {
+     width: 40%;
+     padding-top: 50px;
+}
+.main-banner-right {
+     width: 40%;
+}
+
+.main-banner-laeft h1 {
+     font-family: "Luxurious Roman", cursive;
+     font-size: 69px;
+     color: #626060db;
+     font-weight: 600;
+     padding-left: 5px;
+     border-left: 4px solid;
+     border-image: linear-gradient(#c74c2a, #db944a) 30;
+}
+#mission {
+     color: #e7973bcb;
+}
+.my-word {
+     font-size: 17px;
+     font-weight: 300;
+     margin-bottom: 40px;
+}
+
+.main-banner-laeft a {
+     text-decoration: none;
+     background: #f76f6fd6;
+     padding: 10px 30px;
+     color: #fff;
+     border-radius: 9px;
+}
+.scroll {
+     font-size: 14px;
+     font-weight: 300;
+     margin-top: 80px;
+}
+.main-banner-right img {
+     width: 85%;
+     padding-left: 50px;
+}
