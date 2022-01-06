@@ -58,10 +58,7 @@ body {
      padding-left: 50px;
 }
 
-/* main-banner end */
-
 /* item section start */
-
 .mission {
      max-width: 100%;
      padding-top: 60px;
@@ -78,6 +75,7 @@ body {
      justify-content: space-evenly;
      padding: 30px 50px;
 }
+
 /* for mision item heading */
 .mi-heading {
      color: #2c2626;
@@ -106,7 +104,7 @@ body {
      color: #727070e0;
 }
 
-/* item section end */
+/* develop section start */
 
 .develop {
      display: flex;
