@@ -155,3 +155,22 @@ body {
      width: 35%;
      /* padding-right: 30px; */
 }
+
+/* footer start */
+
+.footer {
+     text-align: center;
+     padding: 33px;
+     background: #5f8997;
+}
+.footer h2 {
+     font-family: "Luxurious Roman", cursive;
+     font-size: 35px;
+     font-weight: 700;
+     color: #fff;
+}
+.footer p {
+     font-size: 14px;
+     font-weight: 400;
+     color: #e3e3e394;
+}
