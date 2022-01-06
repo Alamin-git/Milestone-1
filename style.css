@@ -28,7 +28,7 @@ body {
      font-weight: 600;
      padding-left: 5px;
      border-left: 4px solid;
-     border-image: linear-gradient(#c74c2a, #db944a) 30;
+     border-image: linear-gradient(#d7765bc7, #c58e54b8) 30;
 }
 
 /* for yellow color */
@@ -77,6 +77,10 @@ body {
      align-items: center;
      justify-content: space-evenly;
      padding: 30px 50px;
+}
+/* for mision item heading */
+.mi-heading {
+     color: #2c2626;
 }
 .items {
      width: 33%;
@@ -153,7 +157,30 @@ body {
 }
 .develop-right-2 {
      width: 35%;
-     /* padding-right: 30px; */
+     padding-left: 90px;
+}
+
+/* bonus-section */
+
+.pro {
+     text-align: center;
+}
+.projects {
+     display: flex;
+     width: 100%;
+     justify-content: space-evenly;
+     flex-wrap: nowrap;
+     align-content: center;
+     margin: 50px 0;
+}
+.proj-items {
+     max-width: 15%;
+}
+.proj-items img {
+     width: 100%;
+     box-sizing: border-box;
+     padding: 20px;
+     box-shadow: 1px 2px 9px 9px rgb(0 0 0 / 20%);
 }
 
 /* footer start */
